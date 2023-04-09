@@ -1,4 +1,4 @@
-##About this Project
+# About this Project
 
 ### This is a python based desktop app which can be used to mark attendance in Google Excel sheet by scanning unique QR codes whose contents are placed in Registration_ID column of Google sheet.
 
