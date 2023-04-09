@@ -1,0 +1,11 @@
+{
+    "params":
+    {
+        "spreadsheet_id":"",
+        "sheet_name" :"",
+        "credentials_path" : "credentials.json",
+        "cam_no":"0",
+        "sec_interval":30
+    }
+
+}
